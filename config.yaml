@@ -8,7 +8,7 @@ instances:
     password: s3cr3t!
 
 ## Streamdeck device to use
-streamdeck_serial: DL38K1A06024
+streamdeck_serial: DL38K1A07777
 
 ## Audio sources
 mic_source_name: "Mic/Aux"
