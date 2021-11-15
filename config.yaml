@@ -1,0 +1,18 @@
+## OBS instance configuration
+instances:
+  - port: 4444
+    password: s3cr3t!
+  - port: 4445
+    password: s3cr3t!
+  - port: 4446
+    password: s3cr3t!
+
+## Streamdeck device to use
+streamdeck_serial: DL38K1A06024
+
+## Audio sources
+mic_source_name: "Mic/Aux"
+audio_source_name: "Desktop Audio"
+
+## Debug messages?
+debug: false
